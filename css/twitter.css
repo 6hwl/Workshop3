@@ -1,0 +1,28 @@
+body{
+  padding-top: 60px;
+}
+
+.searchbutton-style{
+  border-left: 0;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-right:25px;
+}
+
+.searchbar-style{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.bottomButtons-style{
+  margin-top:15px;
+  margin-bottom: 30px;
+}
+
+.bottomButtons-style li {
+  padding-right:50px;
+}
+
+.bottomButtons-style li a {
+  color:gray;
+}
