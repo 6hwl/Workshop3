@@ -15,8 +15,8 @@ body{
 }
 
 .bottomButtons-style{
-  margin-top:15px;
-  margin-bottom: 30px;
+  margin-top:10px;
+  margin-bottom: 15px;
 }
 
 .bottomButtons-style li {
@@ -25,4 +25,8 @@ body{
 
 .bottomButtons-style li a {
   color:gray;
+}
+
+.hrline{
+  margin-top:10px;
 }
